@@ -1,4 +1,4 @@
-### You can download bootstrap file using this link  [Seko Bootstrap File](https://github.com/mrgrow2k/Sekopay/bootstrap.zip)
+### You can download bootstrap file using this link  [Seko Bootstrap File](https://github.com/mrgrow2k/Sekopay/releases/download/1395482/bootstrap.zip)
 
 ### or copy and past the addnodes below into your seko.conf file and restart your wallet 
 
